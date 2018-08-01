@@ -1,0 +1,4 @@
+baseURL = "http://joonlee.org"
+languageCode = "en-us"
+title = "Joon Suk Lee's Test Site"
+theme = "ananke"
